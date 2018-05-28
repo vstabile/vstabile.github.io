@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Founder & CTO da Liber Capital. Engenheiro Físico.
   Entusiasta da cultura hacker, criptografia, Bitcoin, IA e exploração espacial.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.victorstabile.com" # the base hostname & protocol for your site
+url: "https://victorstabile.com" # the base hostname & protocol for your site
 linkedin_username: stabile
 github_username:  vstabile
 twitter_username: vmstabile
